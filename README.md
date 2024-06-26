@@ -28,14 +28,13 @@
 Here are some previews of the script:
 
 ### Preview 1
-![Preview 1](https://github.com/username/Customized-Youtube/raw/main/previews/preview-1.png)
+![Preview 1](https://github.com/sekuji/Customized-Youtube/blob/main/preview/preview-1.png)
 
 ### Preview 2
-![Preview 2](https://github.com/username/Customized-Youtube/raw/main/previews/preview-2.png)
+![Preview 2](https://github.com/sekuji/Customized-Youtube/blob/main/preview/preview-1.png)
 
 ### Preview 3
-![Preview 3](https://github.com/username/Customized-Youtube/raw/main/previews/preview-3.png)
-
+![Preview 3](https://github.com/sekuji/Customized-Youtube/blob/main/preview/preview-1.png)
 ## Update
 
 The script will automatically check for updates and install them. To manually update, simply reinstall using the installation link above.
