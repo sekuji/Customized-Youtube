@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Customized Youtube
-// @description	  Custom Backround, Transparent objects, Video and Audio Downloader, Custom Screenshot Plugin , Faster/Slower Buttons, Age Rescriction Bypass, Custom Youtube Play Logo
+// @description	  Custom Backround, Transparent objects, Youtube Converter Button, NyanProgressBar
 // @namespace     https://sekuji.xyz
 // @author        sekuji | url: sekuji.xyz
 // @run-at        document-start
@@ -154,7 +154,7 @@
             <h3 style="margin-top: 0;">Settings</h3>
             <label for="backgroundUrl">Background Image URL:</label><br>
             <input type="text" id="backgroundUrl" style="width: 100%; margin-bottom: 10px; background: rgb(150, 125, 125) !important; border-radius: 15px; border: 0px;"><br>
-            <label for="enableProgressBar">Enable Progress Bar Styles:</label>
+            <label for="enableProgressBar">Enable NyanProgressBar:</label>
             <input type="checkbox" id="enableProgressBar" style="margin-bottom: 10px;"><br>
             <button id="saveSettingsBtn" style="padding: 5px 10px; background: rgba(150, 0, 0, 0.75) !important; color: #fff !important; border-radius: 15px; border: 0px; cursor: pointer;">Save</button>
             <button id="closeSettingsBtn" style="padding: 5px 10px; background: rgba(100, 100, 100, 0.75) !important; color: #fff !important; border-radius: 15px; border: 0px; cursor: pointer;">Close</button>
